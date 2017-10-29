@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 87ec0d65eaa225e46bf059e96f911320
+timeCreated: 1508585658
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: //RootNode
+    100014: Icosphere
+    100016: Icosphere_001
+    100018: Icosphere_002
+    100020: Icosphere_003
+    100022: Icosphere_004
+    100024: Icosphere_005
+    100026: Icosphere_006
+    100028: Icosphere_007
+    100030: Icosphere_008
+    100032: Icosphere_009
+    100034: Icosphere_010
+    100036: Icosphere_011
+    100038: Plane
+    100040: Plane_001
+    100042: Plane_002
+    100044: Plane_003
+    100046: Plane_004
+    100048: Plane_005
+    100050: Plane_006
+    100052: Plane_007
+    100054: Plane_008
+    100056: Plane_009
+    100058: Plane_010
+    100060: Plane_011
+    100062: Plane_012
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: //RootNode
+    400014: Icosphere
+    400016: Icosphere_001
+    400018: Icosphere_002
+    400020: Icosphere_003
+    400022: Icosphere_004
+    400024: Icosphere_005
+    400026: Icosphere_006
+    400028: Icosphere_007
+    400030: Icosphere_008
+    400032: Icosphere_009
+    400034: Icosphere_010
+    400036: Icosphere_011
+    400038: Plane
+    400040: Plane_001
+    400042: Plane_002
+    400044: Plane_003
+    400046: Plane_004
+    400048: Plane_005
+    400050: Plane_006
+    400052: Plane_007
+    400054: Plane_008
+    400056: Plane_009
+    400058: Plane_010
+    400060: Plane_011
+    400062: Plane_012
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Icosphere
+    2300014: Icosphere_001
+    2300016: Icosphere_002
+    2300018: Icosphere_003
+    2300020: Icosphere_004
+    2300022: Icosphere_005
+    2300024: Icosphere_006
+    2300026: Icosphere_007
+    2300028: Icosphere_008
+    2300030: Icosphere_009
+    2300032: Icosphere_010
+    2300034: Icosphere_011
+    2300036: Plane
+    2300038: Plane_001
+    2300040: Plane_002
+    2300042: Plane_003
+    2300044: Plane_004
+    2300046: Plane_005
+    2300048: Plane_006
+    2300050: Plane_007
+    2300052: Plane_008
+    2300054: Plane_009
+    2300056: Plane_010
+    2300058: Plane_011
+    2300060: Plane_012
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Icosphere
+    3300014: Icosphere_001
+    3300016: Icosphere_002
+    3300018: Icosphere_003
+    3300020: Icosphere_004
+    3300022: Icosphere_005
+    3300024: Icosphere_006
+    3300026: Icosphere_007
+    3300028: Icosphere_008
+    3300030: Icosphere_009
+    3300032: Icosphere_010
+    3300034: Icosphere_011
+    3300036: Plane
+    3300038: Plane_001
+    3300040: Plane_002
+    3300042: Plane_003
+    3300044: Plane_004
+    3300046: Plane_005
+    3300048: Plane_006
+    3300050: Plane_007
+    3300052: Plane_008
+    3300054: Plane_009
+    3300056: Plane_010
+    3300058: Plane_011
+    3300060: Plane_012
+    4300000: Icosphere_011
+    4300002: Plane_012
+    4300004: Plane_011
+    4300006: Plane_010
+    4300008: Plane_009
+    4300010: Plane_008
+    4300012: Plane_007
+    4300014: Plane_006
+    4300016: Plane_005
+    4300018: Plane_004
+    4300020: Plane_003
+    4300022: Plane_002
+    4300024: Plane_001
+    4300026: Plane
+    4300028: Cube_005
+    4300030: Icosphere_010
+    4300032: Icosphere_009
+    4300034: Icosphere_008
+    4300036: Icosphere_007
+    4300038: Icosphere_006
+    4300040: Icosphere_005
+    4300042: Cube_004
+    4300044: Cube_003
+    4300046: Cube_002
+    4300048: Cube_001
+    4300050: Icosphere_004
+    4300052: Icosphere_003
+    4300054: Icosphere_002
+    4300056: Icosphere_001
+    4300058: Icosphere
+    4300060: Cube
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 3f670a5c3a25f4945a86211905d6bbeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 3caa0c696f1eec241965e9ba3d98db57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 8e4dd1844990d424dafa039069643b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 9bab3f5067cbdc94db0cebb8124a55dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: cd14b65fe8e383b47b1fd67decdc91f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: cb42fc623bf5a424893b8c3f5e158665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: 41f000bc90086cf41b549a37871ab2a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: e0ab3331782e54f408ec742db8600c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_010
+    second: {fileID: 2100000, guid: d8cdc11bfe0dc414da4a0bdec1283b5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_011
+    second: {fileID: 2100000, guid: ab16d6bec17720749b2bc2ddf76972fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_012
+    second: {fileID: 2100000, guid: c85823e1690d9ca43a60a7529c1f7125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_013
+    second: {fileID: 2100000, guid: adfad0d13b54ab94cbb6681c0fd0e440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_014
+    second: {fileID: 2100000, guid: a0322ec88db19724fabeb86505bf51f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_015
+    second: {fileID: 2100000, guid: 9f74573bc243e9246bf691323c86306f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_016
+    second: {fileID: 2100000, guid: 78a0cbb78a6b6634c84adb745013feeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_017
+    second: {fileID: 2100000, guid: 5b6939391114fd642887b250aa033105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_018
+    second: {fileID: 2100000, guid: 3b5af022154405c48a8561a40226642d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_019
+    second: {fileID: 2100000, guid: 98c4d7abd425cc847ba58cdfed1137ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_020
+    second: {fileID: 2100000, guid: 3b7de92f242c9ce4cb2175b7a41e637e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_021
+    second: {fileID: 2100000, guid: db368314f2c83334da87d8608d7d78a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_022
+    second: {fileID: 2100000, guid: dd8963c24b4ae874bb52437424104a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__UV
+    second: {fileID: 2100000, guid: bbeafc52c8a98ae40a3afa2a75e24a30, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
